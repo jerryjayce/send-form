@@ -1,0 +1,22 @@
+{
+  "name": "send-form",
+  "version": "1.0.6",
+  "description": "pass in form name and api url, eliminates the need for state management in form fields",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "form",
+    "form-data",
+    "send form",
+    "input fields",
+    "axios form",
+    "form api url"
+  ],
+  "author": "jerryjayce",
+  "license": "MIT",
+  "dependencies": {
+    "toasted-notes": "^3.2.0"
+  }
+}
